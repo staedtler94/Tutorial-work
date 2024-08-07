@@ -16,16 +16,22 @@ public class Sample {
         ALL_SIDES
     }
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         System.out.println("=====================================");
         System.out.println("This Application is a part of developing muscle for Java programming.");
         System.out.println("=====================================");
 
-
-
     }
 
+    private void primeNumbers(){
+        PrimeNumber pm = new PrimeNumber();
+        System.out.println(pm.isNumberPrime(13));
+        System.out.println(pm.isNumberPrime(20));
+        System.out.println(pm.isNumberPrime(5));
+        System.out.println(pm.isNumberPrime(17));
+        System.out.println(pm.isNumberPrime(193));
+    }
 
     private void matrixCalculations(){
         MatrixAssistant matAsst = new MatrixAssistant();
@@ -145,15 +151,14 @@ public class Sample {
         RadixFinder radixFinder = new RadixFinder();
 
 //        String str = "0101010111101232456789";
-        String str = input;
 
-        if(radixFinder.isBinary(str)){
+        if(radixFinder.isBinary(input)){
             System.out.println("Is binary");
-        } else if(radixFinder.isOctal(str)){
+        } else if(radixFinder.isOctal(input)){
             System.out.println("Is Octal");
-        } else if(radixFinder.isDecimal(str)){
+        } else if(radixFinder.isDecimal(input)){
             System.out.println("Is Decimal");
-        } else if(radixFinder.isHexaDecimal(str)){
+        } else if(radixFinder.isHexaDecimal(input)){
             System.out.println("Is Hexa-Decimal");
         } else {
             System.out.println("Is invalid Number Radix");
@@ -199,7 +204,7 @@ public class Sample {
         c= sc.nextInt();
 
         QuadraticEquation qE = new QuadraticEquation();
-        double root[] = qE.calculateRoots(a,b,c);
+        double[] root = qE.calculateRoots(a,b,c);
 
         System.out.println("Roots are: "+ root[0] + root[1]);
     }
