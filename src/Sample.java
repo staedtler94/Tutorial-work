@@ -24,6 +24,15 @@ public class Sample {
 
     }
 
+    private void findGCD(){
+        GCD gd = new GCD();
+
+        System.out.println(gd.findGCD(35, 21));
+        System.out.println(gd.findGCD(25, 15));
+        System.out.println(gd.findGCD(102, 30));
+        System.out.println(gd.findGCD(45, 117));
+    }
+
     private void primeNumbers(){
         PrimeNumber pm = new PrimeNumber();
         System.out.println(pm.isNumberPrime(13));
