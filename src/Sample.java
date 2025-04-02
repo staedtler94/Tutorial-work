@@ -1,5 +1,6 @@
 import algos.ArrayRelatedAlgosSimple;
 import algos.DigitsRelatedAlgos;
+import business_cases.university.UniversityClassPickerExample;
 import general.LeapYearChecker;
 import general.Patterns;
 import general.RadixFinder;
@@ -21,6 +22,9 @@ public class Sample {
         System.out.println("=====================================");
         System.out.println("This Application is a part of developing muscle for Java programming.");
         System.out.println("=====================================");
+
+        UniversityClassPickerExample uniPickerExample = new UniversityClassPickerExample();
+        uniPickerExample.universityPickerExample();
 
     }
 
