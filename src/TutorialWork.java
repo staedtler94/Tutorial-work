@@ -6,6 +6,7 @@ import general.Patterns;
 import general.RadixFinder;
 import general.WebsiteRecogniser;
 import math.*;
+import oop.inner_classes.OuterClass;
 
 import java.util.Scanner;
 
@@ -17,6 +18,10 @@ public class TutorialWork {
     }
 
     public void runTutorialWork(){
+        new OuterClass().runOuterClassProcedure();
+    }
+
+    private void universityPickerExample(){
         UniversityClassPickerExample uniPickerExample = new UniversityClassPickerExample();
         uniPickerExample.universityPickerExample();
     }

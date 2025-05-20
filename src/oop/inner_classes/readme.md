@@ -1,0 +1,1 @@
+Nested Inner classes can be dangerous as they can cause a recursive loop.
