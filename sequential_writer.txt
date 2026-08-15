@@ -1,0 +1,11 @@
+THIS IS A FILE WHICH HAS SOME DETAILS REGARDING JAVA STREAMS TUTORIALS.
+THIS IS A FILE WHICH HAS SOME DETAILS REGARDING JAVA STREAMS TUTORIALS.
+THIS IS A FILE WHICH HAS SOME DETAILS REGARDING JAVA STREAMS TUTORIALS.
+THIS IS A FILE WHICH HAS SOME DETAILS REGARDING JAVA STREAMS TUTORIALS.
+
+
+Some additional data loaders.......Sample file for Java to read something from the disk.
+This file may not be that big but how can we read much bigger files in the applications is somehting to think about going forward.
+Adding more characters to see how the application can respond when it over buffers.
+
+Event bigger files will have been read by iterating over multiple times on a fixed buffer.

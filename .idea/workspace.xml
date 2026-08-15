@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f935300-f2db-4e89-8d3a-40e48e3c08db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tutorial-work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_reader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myText.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lambda/MyLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/ExceptionLearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/ExceptionLearningMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/TryWithResourcesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/stack_handling/LearningExceptionStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/stack_handling/StackOverflowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exception/stack_handling/StackUnderflowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lang_explore/LangExplore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/AnotherThreadUsingSharedResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/LearnMultiThreadingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/MyRunnableSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/SharedResourceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/ThreadUseSharedData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/ProducerConsumerRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/SharedData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/ClassroomExercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/Whiteboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/atm/ATMMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/atm/ATMSceneRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/atm/BankingPersonMod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/atm/WithdrawBankingMod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/banking/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/banking/SampleCustomerStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/people/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams_tutorial/DataRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams_tutorial/FileInputOutputTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams_tutorial/FileStreamTutorials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams_tutorial/PipeStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApplication.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TutorialWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TutorialWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algos/ArrayRelatedAlgosSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algos/ArrayRelatedAlgosSimple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algos/DigitsRelatedAlgos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algos/DigitsRelatedAlgos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business_cases/university/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business_cases/university/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business_cases/university/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business_cases/university/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business_cases/university/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business_cases/university/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business_cases/university/UniversityClassPickerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business_cases/university/UniversityClassPickerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/business_cases/university/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business_cases/university/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/general/LeapYearChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/general/LeapYearChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/general/Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/general/Patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/general/RadixFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/general/RadixFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/general/WebsiteRecogniser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/general/WebsiteRecogniser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance_concepts/MechanicalProductSKU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_concepts/MechanicalProductSKU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/inheritance_concepts/ProductSKU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_concepts/ProductSKU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/BuildMultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/BuildMultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/MatrixAssistant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/MatrixAssistant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/MatrixCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/MatrixCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Series.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/TriangleAreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/TriangleAreaCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/access_checker/RunnerGo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/access_checker/RunnerGo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inner_classes/OuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inner_classes/OuterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/inner_classes/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inner_classes/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/understan_access_modifiers/BaseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/understan_access_modifiers/BaseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/understan_access_modifiers/DemoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/understan_access_modifiers/DemoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oop/understan_access_modifiers/SubClDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/understan_access_modifiers/SubClDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/graalvm-jdk-21.0.7/Contents/Home/lib/src.zip!/java.base/java/io/InputStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/graalvm-jdk-21.0.7/Contents/Home/lib/src.zip!/java.base/java/lang/Runnable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/graalvm-jdk-21.0.7/Contents/Home/lib/src.zip!/java.base/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/graalvm-jdk-21.0.7/Contents/Home/lib/src.zip!/java.base/java/lang/VirtualThread.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2xoz81hzDKvb9LymiVR5nF2UTyz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ATMSceneRunner.executor": "Run",
+    "Application.Annotations.executor": "Run",
+    "Application.ClassroomExercise.executor": "Run",
+    "Application.ExceptionLearningMain.executor": "Run",
+    "Application.FileStreamTutorials.executor": "Run",
+    "Application.LangExplore.executor": "Run",
+    "Application.LearnMultiThreadingMain.executor": "Run",
+    "Application.MyLambda.executor": "Run",
+    "Application.ProducerConsumerRunner.executor": "Run",
+    "Application.Sample.executor": "Run",
+    "Maven.Sample [clean,install,exec:java].executor": "Run",
+    "Maven.Sample [clean].executor": "Run",
+    "Maven.Sample [install].executor": "Run",
+    "Maven.Sample [org.codehaus.mojo:exec-maven-plugin:3.1.0:java].executor": "Run",
+    "Maven.Sample [package].executor": "Run",
+    "Maven.Sample [validate].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Remote" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FileStreamTutorials">
+    <configuration name="Annotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotations.Annotations" />
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassroomExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multi_threading.producer_consumer.teacher_students_example.ClassroomExercise" />
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="multi_threading.producer_consumer.teacher_students_example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileStreamTutorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams_tutorial.FileStreamTutorials" />
+      <module name="Sample" />
+      <option name="PROGRAM_PARAMETERS" value="input_reader.txt output_writer.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams_tutorial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LangExplore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang_explore.LangExplore" />
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang_explore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambda.MyLambda" />
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="main" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sample [clean,install,exec:java]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+                <option value="exec:java" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Sample JVM Debug" type="Remote">
+      <module name="Sample" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.FileStreamTutorials" />
+      <item itemvalue="Application.MyLambda" />
+      <item itemvalue="Application.Annotations" />
+      <item itemvalue="Application.ClassroomExercise" />
+      <item itemvalue="Application.LangExplore" />
+      <item itemvalue="Maven.Sample [clean,install,exec:java]" />
+      <item itemvalue="Remote JVM Debug.Sample JVM Debug" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileStreamTutorials" />
+        <item itemvalue="Application.MyLambda" />
+        <item itemvalue="Application.Annotations" />
+        <item itemvalue="Application.LangExplore" />
+        <item itemvalue="Application.ClassroomExercise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f935300-f2db-4e89-8d3a-40e48e3c08db" name="Changes" comment="" />
+      <created>1748619051006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748619051006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i % 100 == 0" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/multi_threading/MyThread.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/multi_threading/LearnMultiThreadingMain.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem_solving/atm/ATMSceneRunner.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem_solving/atm/BankingPersonMod.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/multi_threading/LearnMultiThreadingMain.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/Whiteboard.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/Whiteboard.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/problem_solving/atm/ATMSceneRunner.java</url>
+          <line>15</line>
+          <properties class="problem_solving.atm.ATMSceneRunner" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Lambda/MyLambda.java</url>
+          <line>57</line>
+          <properties class="Lambda.MyLambda" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/streams_tutorial/FileInputOutputTutorial.java</url>
+          <line>33</line>
+          <properties class="streams_tutorial.FileInputOutputTutorial" method="runInputOutExample">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tutorial_work$FileStreamTutorials.ic" NAME="FileStreamTutorials Coverage Results" MODIFIED="1786437451302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>file_streams.*</FILTER>
+    </SUITE>
+  </component>
+</project>
