@@ -7,7 +7,9 @@ import org.jetbrains.annotations.Nullable;
 
 import java.io.*;
 
-class StreamOrigin implements Runnable {
+
+// this class can read file but can be used to read data from database, excel rows, video chunks, image chunks pixelated etc...
+class StreamOrigin extends Thread  {
 
     DataOutputStream dataOutputStr;
     DataRecord data_stream;
@@ -24,20 +26,27 @@ class StreamOrigin implements Runnable {
     public void run() {
 
         try {
+            float sum = 0;
             for (int i = 0; i < _rows; i++) {
-                for (float v: data_stream.getDataByRows(i))
-                    dataOutputStr.writeFloat(v);
+                for (float v: data_stream.getDataByRows(i)){
+                    dataOutputStr.writeFloat(i+v);
+                    sum += (i+v);
+                    System.out.println("Writing Floats from Origin: " + (i + v));
+                }
+                // this flushes entire col data
                 dataOutputStr.flush();
-                System.out.println("Writing Floats from Origin row number: " + i + "...");
+                System.out.flush();
+                Thread.sleep(100);
             }
+            System.out.println(sum);
             dataOutputStr.close();
-        }catch (IOException ioe){
+        }catch (IOException | InterruptedException ioe){
             System.out.println(ioe);
         }
     }
 }
 
-class StreamDestination implements Runnable {
+class StreamDestination extends Thread {
 
     DataInputStream dataInputStr;
 
@@ -47,16 +56,21 @@ class StreamDestination implements Runnable {
 
     @Override
     public void run() {
-
+        float sum = 0;
         try {
             while(true) {
+                // this reads one by one
                 float v = dataInputStr.readFloat();
-                System.out.println("Writing Floats from Destination row number: " + v + "...");
+                sum+=v;
+                System.out.println("Writing Floats from Destination: " + v);
+                Thread.sleep(1);
             }
-        }catch (IOException ioe){
+        }catch (EOFException | InterruptedException ioe){
+            System.out.println("Destination Sum = " + sum);
             System.out.println(ioe);
+        } catch (IOException e) {
+            throw new RuntimeException(e);
         }
-
     }
 }
 
@@ -67,12 +81,12 @@ public class PipeStreams {
     protected void runPipeIOStreams() throws IOException {
         PipedInputStream pis = new PipedInputStream();
         PipedOutputStream pos = new PipedOutputStream();
-
-        StreamOrigin origin = new StreamOrigin(pos, 10, 5);
-        StreamDestination destination = new StreamDestination(pis);
         pis.connect(pos);
 
-        origin.run();
-        destination.run();
+        StreamOrigin origin = new StreamOrigin(pos, 100, 10);
+        StreamDestination destination = new StreamDestination(pis);
+
+        origin.start();
+        destination.start();
     }
 }

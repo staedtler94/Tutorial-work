@@ -30,11 +30,14 @@ public class FileInputOutputTutorial {
     }
 
     protected void runInputOutExample(@Nullable String input, @Nullable String output){
-        if(input.length() == 0)
+        assert input != null;
+        if(input.isEmpty())
             input = "input_reader.txt";
 
-        if(output.length() == 0)
+        assert output != null;
+        if(output.isEmpty())
             output = "output_writer.txt";
+
         try(FileInputStream fr = new FileInputStream(input);
             FileOutputStream fw = new FileOutputStream(output)) {
 
@@ -44,22 +47,19 @@ public class FileInputOutputTutorial {
             }
             fr.close();
             fw.close();
-
         } catch (IOException io){
             System.out.println(io.getMessage());
         }
     }
 
-    protected void runReaderWriteExample(){
-
-    }
+    protected void runReaderWriteExample(){}
 
     protected  void runSequentialInputStreamsExample(@NotNull String[] inputs, @NotNull String output){
         if(inputs.length == 0){
             return;
         }
 
-        if(output.length() == 0){
+        if(output.isEmpty()){
             return;
         }
 

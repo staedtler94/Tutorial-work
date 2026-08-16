@@ -8,84 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f935300-f2db-4e89-8d3a-40e48e3c08db" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial-work.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_reader.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myText.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lambda/MyLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/annotations/Annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception/ExceptionLearning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception/ExceptionLearningMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception/TryWithResourcesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception/stack_handling/LearningExceptionStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception/stack_handling/StackOverflowException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exception/stack_handling/StackUnderflowException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lang_explore/LangExplore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/AnotherThreadUsingSharedResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/LearnMultiThreadingMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/MyRunnableSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/SharedResourceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/ThreadUseSharedData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/ProducerConsumerRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/SharedData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/ClassroomExercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/Whiteboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multi_threading/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/atm/ATMMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/atm/ATMSceneRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/atm/BankingPersonMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/atm/WithdrawBankingMod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/banking/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/banking/SampleCustomerStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/problem_solving/people/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams_tutorial/DataRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams_tutorial/FileInputOutputTutorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams_tutorial/FileStreamTutorials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/streams_tutorial/PipeStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestApplication.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TutorialWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TutorialWork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algos/ArrayRelatedAlgosSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algos/ArrayRelatedAlgosSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algos/DigitsRelatedAlgos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algos/DigitsRelatedAlgos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/business_cases/university/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business_cases/university/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/business_cases/university/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business_cases/university/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/business_cases/university/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business_cases/university/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/business_cases/university/UniversityClassPickerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business_cases/university/UniversityClassPickerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/business_cases/university/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/business_cases/university/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/general/LeapYearChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/general/LeapYearChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/general/Patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/general/Patterns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/general/RadixFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/general/RadixFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/general/WebsiteRecogniser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/general/WebsiteRecogniser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance_concepts/MechanicalProductSKU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_concepts/MechanicalProductSKU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inheritance_concepts/ProductSKU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inheritance_concepts/ProductSKU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/BuildMultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/BuildMultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/GCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/MatrixAssistant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/MatrixAssistant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/MatrixCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/MatrixCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/QuadraticEquation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/Series.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/Series.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/TriangleAreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/math/TriangleAreaCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/access_checker/RunnerGo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/access_checker/RunnerGo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inner_classes/OuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inner_classes/OuterClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/inner_classes/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/inner_classes/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/understan_access_modifiers/BaseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/understan_access_modifiers/BaseDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/understan_access_modifiers/DemoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/understan_access_modifiers/DemoRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/understan_access_modifiers/SubClDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/oop/understan_access_modifiers/SubClDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file_tutorials/RandomAccessFileTutorials.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_reader.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input_reader.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams_tutorial/FileInputOutputTutorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams_tutorial/FileInputOutputTutorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/streams_tutorial/PipeStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/streams_tutorial/PipeStreams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,6 +69,7 @@
     "Application.LearnMultiThreadingMain.executor": "Run",
     "Application.MyLambda.executor": "Run",
     "Application.ProducerConsumerRunner.executor": "Run",
+    "Application.RandomAccessFileTutorials.executor": "Run",
     "Application.Sample.executor": "Run",
     "Maven.Sample [clean,install,exec:java].executor": "Run",
     "Maven.Sample [clean].executor": "Run",
@@ -171,26 +99,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileStreamTutorials">
+  <component name="RunManager" selected="Application.RandomAccessFileTutorials">
     <configuration name="Annotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="annotations.Annotations" />
       <module name="Sample" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="annotations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassroomExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multi_threading.producer_consumer.teacher_students_example.ClassroomExercise" />
-      <module name="Sample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multi_threading.producer_consumer.teacher_students_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,6 +146,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomAccessFileTutorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file_tutorials.RandomAccessFileTutorials" />
+      <module name="Sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file_tutorials.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,20 +221,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.FileStreamTutorials" />
+      <item itemvalue="Application.RandomAccessFileTutorials" />
       <item itemvalue="Application.MyLambda" />
       <item itemvalue="Application.Annotations" />
-      <item itemvalue="Application.ClassroomExercise" />
       <item itemvalue="Application.LangExplore" />
       <item itemvalue="Maven.Sample [clean,install,exec:java]" />
       <item itemvalue="Remote JVM Debug.Sample JVM Debug" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomAccessFileTutorials" />
         <item itemvalue="Application.FileStreamTutorials" />
         <item itemvalue="Application.MyLambda" />
         <item itemvalue="Application.Annotations" />
         <item itemvalue="Application.LangExplore" />
-        <item itemvalue="Application.ClassroomExercise" />
       </list>
     </recent_temporary>
   </component>
@@ -369,6 +297,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/multi_threading/producer_consumer/teacher_students_example/Whiteboard.java</url>
           <line>34</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/streams_tutorial/FileInputOutputTutorial.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/streams_tutorial/PipeStreams.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/problem_solving/atm/ATMSceneRunner.java</url>
