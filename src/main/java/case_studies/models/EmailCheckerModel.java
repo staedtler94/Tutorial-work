@@ -1,4 +1,4 @@
-package models;
+package case_studies.models;
 
 public class EmailCheckerModel {
     private String userName;

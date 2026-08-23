@@ -1,4 +1,4 @@
-package tutorials;
+package case_studies.tutorials;
 
 // this is the iterable list of Tutorials we can go through in the future
 public enum TutorialList {

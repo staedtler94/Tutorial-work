@@ -1,4 +1,4 @@
-package Services;
+package case_studies.Services;
 
 public class BinaryChecker {
     public boolean isBinary(String input) {

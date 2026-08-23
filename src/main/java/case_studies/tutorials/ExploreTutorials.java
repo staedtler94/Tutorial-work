@@ -1,6 +1,6 @@
-package tutorials;
+package case_studies.tutorials;
 
-import interfaces.Tutorial;
+import case_studies.interfaces.Tutorial;
 
 public class ExploreTutorials {
 

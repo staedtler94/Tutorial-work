@@ -1,9 +1,9 @@
-package tutorials;
+package case_studies.tutorials;
 
-import Services.BinaryChecker;
-import Services.EmailChecker;
-import interfaces.Tutorial;
-import models.EmailCheckerModel;
+import case_studies.Services.BinaryChecker;
+import case_studies.Services.EmailChecker;
+import case_studies.interfaces.Tutorial;
+import case_studies.models.EmailCheckerModel;
 
 public class RegEx implements Tutorial {
 
